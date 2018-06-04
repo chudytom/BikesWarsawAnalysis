@@ -1,0 +1,401 @@
+"","destination","origin","origin_cord","driving_distance","driving_time_current","driving_time_average","bicycling_distance","bicycling_time_current","transit_distance","transit_time_current"
+"1","Przemysława Gintrowskiego 38, Warszawa, Poland","Kłopot, Warszawa, Poland","52.2575693281217,20.9843602500886",11.5,23,26,11.4,41,15.3,44
+"2","Przemysława Gintrowskiego 38, Warszawa, Poland","Słomińskiego 6A, 00-204 Warszawa, Poland","52.258344685416,20.9911151000188",11.8,24,26,11.7,43,11.3,34
+"3","Przemysława Gintrowskiego 38, Warszawa, Poland","Dzika 6, Warszawa, Poland","52.2537106997264,20.9867341493845",11.1,23,25,10.5,38,11.1,45
+"4","Przemysława Gintrowskiego 38, Warszawa, Poland","Inflancka 3, 00-001 Warszawa, Poland","52.2555841739798,20.9931692739941",11.5,23,26,10.8,39,11.4,38
+"5","Przemysława Gintrowskiego 38, Warszawa, Poland","Karmelicka 21, 00-163 Warszawa, Poland","52.2502034539755,20.9904798824379",10.9,22,24,10,37,10.6,44
+"6","Przemysława Gintrowskiego 38, Warszawa, Poland","Dubois 6, 00-184 Warszawa, Poland","52.2516049484137,20.9956224731059",11.2,24,26,10.5,39,10.4,42
+"7","Przemysława Gintrowskiego 38, Warszawa, Poland","Karmelicka 14, 00-163 Warszawa, Poland","52.24694051145,20.9929575480508",10.8,22,25,9.8,35,10.6,43
+"8","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowolipie 14, Warszawa, Poland","52.243737793983,20.9937326116465",10.1,21,23,9.1,33,9.9,44
+"9","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowolipie 2A, Warszawa, Poland","52.2458288381303,20.9974996631046",10.7,28,24,9.4,34,9.9,35
+"10","Przemysława Gintrowskiego 38, Warszawa, Poland","Szymanowska, 00-225 Warszawa, Poland","52.2572931815257,21.0029117503014",14.7,20,23,10.8,39,11.6,40
+"11","Przemysława Gintrowskiego 38, Warszawa, Poland","Wałowa 7, Warszawa, Poland","52.2513440944727,21.0003024972475",15.2,22,25,10,36,10.3,40
+"12","Przemysława Gintrowskiego 38, Warszawa, Poland","Franciszkańska 7-15, 00-227 Warszawa, Poland","52.2524264993653,21.0043770594024",15.2,22,24,10.3,37,11.3,51
+"13","Przemysława Gintrowskiego 38, Warszawa, Poland","Wójtowska 5/7, Warszawa, Poland","52.2550491107454,21.0071892929883",14.5,20,23,10.6,36,11.5,51
+"14","Przemysława Gintrowskiego 38, Warszawa, Poland","Kotowski Palace, Warszawa, Poland","52.2534102037094,21.0107787336228",14.8,23,26,10.3,36,14.3,52
+"15","Przemysława Gintrowskiego 38, Warszawa, Poland","Bugaj 3, 00-285 Warszawa, Poland","52.2495370177542,21.0140599031873",13.9,20,23,9.7,33,10.9,48
+"16","Przemysława Gintrowskiego 38, Warszawa, Poland","Miodowa 22/24, Warszawa, Poland","52.2485590680385,21.0090841788058",10.8,37,29,10.2,36,13.8,44
+"17","Przemysława Gintrowskiego 38, Warszawa, Poland","Długa 28, 00-263 Warszawa, Poland","52.2476208284668,21.006830724759",10.9,33,25,9.6,34,10.1,37
+"18","Przemysława Gintrowskiego 38, Warszawa, Poland","Długa 48, 00-241 Warszawa, Poland","52.2471648110626,21.0022446539562",10.8,28,25,9.7,34,9.8,34
+"19","Przemysława Gintrowskiego 38, Warszawa, Poland","Elektoralna 12A, Warszawa, Poland","52.2407500778937,20.9971560902976",9.1,18,21,8.8,32,9.6,43
+"20","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja ""Solidarności"" 87A, Warszawa, Poland","52.2427350479701,21.0004607969425",9.5,20,22,9.1,33,10.1,38
+"21","Przemysława Gintrowskiego 38, Warszawa, Poland","Przechodnia 2, Warszawa, Poland","52.2406156482177,21.0024269950463",9.8,20,22,8.7,31,10.1,37
+"22","Przemysława Gintrowskiego 38, Warszawa, Poland","Senatorska 32, Warszawa, Poland","52.2438286670881,21.004283352316",14.1,23,24,8.9,31,NA,NA
+"23","Przemysława Gintrowskiego 38, Warszawa, Poland","Daniłowiczowska 9, Warszawa, Poland","52.2450506048003,21.0076860024903",13.8,21,23,9.2,32,10,36
+"24","Przemysława Gintrowskiego 38, Warszawa, Poland","Pałac Prymasowski w Warszawie, Warszawa, Poland","52.2450902345669,21.012001848988",14,22,24,9.5,34,10.7,45
+"25","Przemysława Gintrowskiego 38, Warszawa, Poland","plac Marszałka Józefa Piłsudskiego 1, Warszawa, Poland","52.2419652701807,21.0143253149555",14.1,22,23,8.9,31,10.1,41
+"26","Przemysława Gintrowskiego 38, Warszawa, Poland","Jana Moliera 2, 00-076 Warszawa, Poland","52.2433213020435,21.0108905295448",13.9,21,22,9.3,32,10.8,45
+"27","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleksandra Fredry 2, 05-075 Warszawa, Poland","52.2406101050224,21.0088351495622",10.4,26,25,8.6,31,9.1,36
+"28","Przemysława Gintrowskiego 38, Warszawa, Poland","Canaletta 4, Warszawa, Poland","52.2425774244591,21.0073567348692",14.1,22,24,9,32,10,38
+"29","Przemysława Gintrowskiego 38, Warszawa, Poland","Grzybowska 22, 00-131 Warszawa, Poland","52.2376013066955,20.9984993091422",8.8,17,20,8.5,30,9.6,40
+"30","Przemysława Gintrowskiego 38, Warszawa, Poland","Graniczna 2, 00-130 Warszawa, Poland","52.2383896814088,21.0032145413328",9.8,20,23,8.5,30,9,34
+"31","Przemysława Gintrowskiego 38, Warszawa, Poland","Spektrum, Warszawa, Poland","52.2353058187965,21.0002639124799",9,20,22,8.1,30,9,34
+"32","Przemysława Gintrowskiego 38, Warszawa, Poland","Bagno 2, 00-112 Warszawa, Poland","52.2358909256583,21.0050968898922",9.7,21,23,8.3,29,11.9,30
+"33","Przemysława Gintrowskiego 38, Warszawa, Poland","Plac Jana Henryka Dąbrowskiego 6, Warszawa, Poland","52.2374688908579,21.0102510608446",9.3,19,21,8.2,29,12,32
+"34","Przemysława Gintrowskiego 38, Warszawa, Poland","Tadeusza Czackiego 21/23, Warszawa, Poland","52.238486410083,21.0150393944889",9.8,21,23,8.7,31,10,43
+"35","Przemysława Gintrowskiego 38, Warszawa, Poland","Warecka 8, 00-034 Warszawa, Poland","52.2352528747846,21.0160786865137",9.6,22,23,8.5,30,10.3,37
+"36","Przemysława Gintrowskiego 38, Warszawa, Poland","Chmielna 9A, Warszawa, Poland","52.2326026757063,21.0176103869038",10,22,24,7.9,27,10.5,42
+"37","Przemysława Gintrowskiego 38, Warszawa, Poland","Dobra 87, Warszawa, Poland","52.2459475023057,21.0193587281852",12.9,19,21,9.9,35,13.2,48
+"38","Przemysława Gintrowskiego 38, Warszawa, Poland","Dobra 68/70, Warszawa, Poland","52.2432534679793,21.0237833883471",12.8,18,21,9.6,35,13,51
+"39","Przemysława Gintrowskiego 38, Warszawa, Poland","Dobra 37-43, 00-384 Warszawa, Poland","52.2400526092405,21.0267042957628",13.1,18,21,9.1,34,10.2,50
+"40","Przemysława Gintrowskiego 38, Warszawa, Poland","Szczygla 2942, 00-370 Warszawa, Poland","52.2350526178212,21.0213706256681",12.5,21,23,8.4,29,9.5,38
+"41","Przemysława Gintrowskiego 38, Warszawa, Poland","Smolna 13, Warszawa, Poland","52.2329670490109,21.0235123375288",11.3,20,22,8.1,29,10.6,44
+"42","Przemysława Gintrowskiego 38, Warszawa, Poland","Zbigniewa Herberta 12B, Warszawa, Poland","52.2357907235639,21.0277147020622",11.6,18,20,8.6,31,11.1,45
+"43","Przemysława Gintrowskiego 38, Warszawa, Poland","Wybrzeże Kościuszkowskie 35, Warszawa, Poland","52.2381579635376,21.0320418108492",11.7,18,20,8.9,32,10.5,37
+"44","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja 3 Maja 4, Warszawa, Poland","52.2354211588202,21.0336395195779",11.3,17,19,8.8,32,11.5,43
+"45","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowogrodzka 53, Warszawa, Poland","52.2267074402549,21.0043313849707",7.7,16,19,6.3,28,8.3,31
+"46","Przemysława Gintrowskiego 38, Warszawa, Poland","Hoża 69, Warszawa, Poland","52.2241260247572,21.0060733704696",7.4,16,19,6.9,24,6.6,34
+"47","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowogrodzka 49, 02-006 Warszawa, Poland","52.2275371710684,21.0081512199873",9.4,20,22,7.4,26,8.1,29
+"48","Przemysława Gintrowskiego 38, Warszawa, Poland","Żurawia 43, Warszawa, Poland","52.2276551852581,21.0118399305552",7.5,17,20,7,25,11.4,32
+"49","Przemysława Gintrowskiego 38, Warszawa, Poland","Wilcza 58A, Warszawa, Poland","52.22445065694,21.0100430252262",7.3,15,17,6.2,23,8.7,43
+"50","Przemysława Gintrowskiego 38, Warszawa, Poland","Wilcza 42, Warszawa, Poland","52.2243222083509,21.013725323113",7.6,17,18,6.6,25,7.1,40
+"51","rondo ONZ 27, 00-828 Warszawa, Poland","Kłopot, Warszawa, Poland","52.2575693281217,20.9843602500886",3.4,10,10,3.6,15,3.7,22
+"52","rondo ONZ 27, 00-828 Warszawa, Poland","Słomińskiego 6A, 00-204 Warszawa, Poland","52.258344685416,20.9911151000188",3.7,10,10,3.9,17,3.9,17
+"53","rondo ONZ 27, 00-828 Warszawa, Poland","Dzika 6, Warszawa, Poland","52.2537106997264,20.9867341493845",2.7,9,8,2.7,12,2.9,15
+"54","rondo ONZ 27, 00-828 Warszawa, Poland","Inflancka 3, 00-001 Warszawa, Poland","52.2555841739798,20.9931692739941",3,9,9,3,13,4.1,20
+"55","rondo ONZ 27, 00-828 Warszawa, Poland","Karmelicka 21, 00-163 Warszawa, Poland","52.2502034539755,20.9904798824379",2.2,7,7,2.2,11,2.4,14
+"56","rondo ONZ 27, 00-828 Warszawa, Poland","Dubois 6, 00-184 Warszawa, Poland","52.2516049484137,20.9956224731059",2.5,9,9,2.7,13,3,19
+"57","rondo ONZ 27, 00-828 Warszawa, Poland","Karmelicka 14, 00-163 Warszawa, Poland","52.24694051145,20.9929575480508",2.1,7,7,2,9,2.4,13
+"58","rondo ONZ 27, 00-828 Warszawa, Poland","Nowolipie 14, Warszawa, Poland","52.243737793983,20.9937326116465",1.4,6,5,1.3,7,1.6,9
+"59","rondo ONZ 27, 00-828 Warszawa, Poland","Nowolipie 2A, Warszawa, Poland","52.2458288381303,20.9974996631046",2.1,8,8,2.1,10,2.4,18
+"60","rondo ONZ 27, 00-828 Warszawa, Poland","Szymanowska, 00-225 Warszawa, Poland","52.2572931815257,21.0029117503014",4.5,12,12,3.5,15,4.7,24
+"61","rondo ONZ 27, 00-828 Warszawa, Poland","Wałowa 7, Warszawa, Poland","52.2513440944727,21.0003024972475",2.5,9,9,2.6,11,3,18
+"62","rondo ONZ 27, 00-828 Warszawa, Poland","Franciszkańska 7-15, 00-227 Warszawa, Poland","52.2524264993653,21.0043770594024",3,10,10,2.9,12,4.3,24
+"63","rondo ONZ 27, 00-828 Warszawa, Poland","Wójtowska 5/7, Warszawa, Poland","52.2550491107454,21.0071892929883",3.9,11,12,3.4,14,4.6,23
+"64","rondo ONZ 27, 00-828 Warszawa, Poland","Kotowski Palace, Warszawa, Poland","52.2534102037094,21.0107787336228",4.2,15,16,3.6,14,3.7,21
+"65","rondo ONZ 27, 00-828 Warszawa, Poland","Bugaj 3, 00-285 Warszawa, Poland","52.2495370177542,21.0140599031873",3.9,15,12,3,11,3.2,20
+"66","rondo ONZ 27, 00-828 Warszawa, Poland","Miodowa 22/24, Warszawa, Poland","52.2485590680385,21.0090841788058",2.8,22,12,3.1,13,3.6,19
+"67","rondo ONZ 27, 00-828 Warszawa, Poland","Długa 28, 00-263 Warszawa, Poland","52.2476208284668,21.006830724759",2.2,17,8,2.3,10,2.6,19
+"68","rondo ONZ 27, 00-828 Warszawa, Poland","Długa 48, 00-241 Warszawa, Poland","52.2471648110626,21.0022446539562",2.4,12,9,2.3,10,2.4,16
+"69","rondo ONZ 27, 00-828 Warszawa, Poland","Elektoralna 12A, Warszawa, Poland","52.2407500778937,20.9971560902976",1,4,4,1,6,1.2,9
+"70","rondo ONZ 27, 00-828 Warszawa, Poland","aleja ""Solidarności"" 87A, Warszawa, Poland","52.2427350479701,21.0004607969425",1.3,5,5,1.3,7,1.7,13
+"71","rondo ONZ 27, 00-828 Warszawa, Poland","Przechodnia 2, Warszawa, Poland","52.2406156482177,21.0024269950463",1.6,5,5,1.1,5,1.7,13
+"72","rondo ONZ 27, 00-828 Warszawa, Poland","Senatorska 32, Warszawa, Poland","52.2438286670881,21.004283352316",2.2,9,7,1.9,8,1.6,21
+"73","rondo ONZ 27, 00-828 Warszawa, Poland","Daniłowiczowska 9, Warszawa, Poland","52.2450506048003,21.0076860024903",2.5,10,9,2.2,9,2.3,17
+"74","rondo ONZ 27, 00-828 Warszawa, Poland","Pałac Prymasowski w Warszawie, Warszawa, Poland","52.2450902345669,21.012001848988",2.8,11,10,2.4,10,2.9,14
+"75","rondo ONZ 27, 00-828 Warszawa, Poland","plac Marszałka Józefa Piłsudskiego 1, Warszawa, Poland","52.2419652701807,21.0143253149555",1.9,8,8,2.2,8,2.3,10
+"76","rondo ONZ 27, 00-828 Warszawa, Poland","Jana Moliera 2, 00-076 Warszawa, Poland","52.2433213020435,21.0108905295448",2.8,10,9,2.3,9,2.6,13
+"77","rondo ONZ 27, 00-828 Warszawa, Poland","Aleksandra Fredry 2, 05-075 Warszawa, Poland","52.2406101050224,21.0088351495622",2.2,11,8,1.6,7,1.9,12
+"78","rondo ONZ 27, 00-828 Warszawa, Poland","Canaletta 4, Warszawa, Poland","52.2425774244591,21.0073567348692",2.3,9,8,2,8,1.9,16
+"79","rondo ONZ 27, 00-828 Warszawa, Poland","Grzybowska 22, 00-131 Warszawa, Poland","52.2376013066955,20.9984993091422",0.7,3,3,0.7,4,1.2,8
+"80","rondo ONZ 27, 00-828 Warszawa, Poland","Graniczna 2, 00-130 Warszawa, Poland","52.2383896814088,21.0032145413328",0.9,4,4,1,5,1.1,9
+"81","rondo ONZ 27, 00-828 Warszawa, Poland","Spektrum, Warszawa, Poland","52.2353058187965,21.0002639124799",1,4,5,1,4,0.4,5
+"82","rondo ONZ 27, 00-828 Warszawa, Poland","Bagno 2, 00-112 Warszawa, Poland","52.2358909256583,21.0050968898922",1.5,6,7,1.3,5,1.1,6
+"83","rondo ONZ 27, 00-828 Warszawa, Poland","Plac Jana Henryka Dąbrowskiego 6, Warszawa, Poland","52.2374688908579,21.0102510608446",1.2,5,5,1.2,6,1.2,7
+"84","rondo ONZ 27, 00-828 Warszawa, Poland","Tadeusza Czackiego 21/23, Warszawa, Poland","52.238486410083,21.0150393944889",1.7,6,7,1.7,7,2.3,11
+"85","rondo ONZ 27, 00-828 Warszawa, Poland","Warecka 8, 00-034 Warszawa, Poland","52.2352528747846,21.0160786865137",1.5,8,6,1.5,7,1.8,7
+"86","rondo ONZ 27, 00-828 Warszawa, Poland","Chmielna 9A, Warszawa, Poland","52.2326026757063,21.0176103869038",1.7,9,7,1.7,7,2.1,12
+"87","rondo ONZ 27, 00-828 Warszawa, Poland","Dobra 87, Warszawa, Poland","52.2459475023057,21.0193587281852",2.9,11,10,3.1,13,3.9,22
+"88","rondo ONZ 27, 00-828 Warszawa, Poland","Dobra 68/70, Warszawa, Poland","52.2432534679793,21.0237833883471",3,12,11,2.7,12,3.7,19
+"89","rondo ONZ 27, 00-828 Warszawa, Poland","Dobra 37-43, 00-384 Warszawa, Poland","52.2400526092405,21.0267042957628",2.5,10,9,2.6,12,3.1,13
+"90","rondo ONZ 27, 00-828 Warszawa, Poland","Szczygla 2942, 00-370 Warszawa, Poland","52.2350526178212,21.0213706256681",2,8,8,2,8,2,10
+"91","rondo ONZ 27, 00-828 Warszawa, Poland","Smolna 13, Warszawa, Poland","52.2329670490109,21.0235123375288",2.6,8,9,2.3,9,2.3,13
+"92","rondo ONZ 27, 00-828 Warszawa, Poland","Zbigniewa Herberta 12B, Warszawa, Poland","52.2357907235639,21.0277147020622",2.3,10,9,2.3,11,3.3,15
+"93","rondo ONZ 27, 00-828 Warszawa, Poland","Wybrzeże Kościuszkowskie 35, Warszawa, Poland","52.2381579635376,21.0320418108492",2.9,11,11,2.9,13,2.9,10
+"94","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja 3 Maja 4, Warszawa, Poland","52.2354211588202,21.0336395195779",3,12,11,3,13,3.4,15
+"95","rondo ONZ 27, 00-828 Warszawa, Poland","Nowogrodzka 53, Warszawa, Poland","52.2267074402549,21.0043313849707",1,4,4,1.8,8,2.1,14
+"96","rondo ONZ 27, 00-828 Warszawa, Poland","Hoża 69, Warszawa, Poland","52.2241260247572,21.0060733704696",1.9,5,5,2.6,10,1.8,11
+"97","rondo ONZ 27, 00-828 Warszawa, Poland","Nowogrodzka 49, 02-006 Warszawa, Poland","52.2275371710684,21.0081512199873",2,7,7,2,7,1.5,12
+"98","rondo ONZ 27, 00-828 Warszawa, Poland","Żurawia 43, Warszawa, Poland","52.2276551852581,21.0118399305552",1.8,5,7,1.8,8,1.8,13
+"99","rondo ONZ 27, 00-828 Warszawa, Poland","Wilcza 58A, Warszawa, Poland","52.22445065694,21.0100430252262",1.7,4,5,2.3,11,2,12
+"100","rondo ONZ 27, 00-828 Warszawa, Poland","Wilcza 42, Warszawa, Poland","52.2243222083509,21.013725323113",1.9,6,6,2.4,9,2.2,15
+"101","Przemysława Gintrowskiego 38, Warszawa, Poland","Wilcza 26-28, 00-538 Warszawa, Poland","52.2249914639133,21.0170977713496",7.2,18,19,6.7,24,7.2,41
+"102","Przemysława Gintrowskiego 38, Warszawa, Poland","Mokotowska 59-61, 00-640 Warszawa, Poland","52.2256790528183,21.0214645530146",10.3,17,19,6.8,24,10,34
+"103","Przemysława Gintrowskiego 38, Warszawa, Poland","Witolda Wierzbickiego 722, 00-664 Warszawa, Poland","52.2213008915674,21.007628547007",7.3,15,17,6.6,23,6.7,34
+"104","Przemysława Gintrowskiego 38, Warszawa, Poland","Filtrowa 3, Warszawa, Poland","52.2186194629453,21.0069695911861",7.9,17,19,5.4,19,6.5,33
+"105","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowowiejska 15/19, Warszawa, Poland","52.2184690769957,21.011637215802",7.2,16,17,6.3,22,6.4,31
+"106","Przemysława Gintrowskiego 38, Warszawa, Poland","Lwowska 12, 00-660 Warszawa, Poland","52.2217912657512,21.0125331528905",7.4,16,19,6.7,23,10.2,32
+"107","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowowiejska 5-7, 02-010 Warszawa, Poland","52.2198982614425,21.0143207606359",7.3,15,17,6.1,22,6.3,30
+"108","Przemysława Gintrowskiego 38, Warszawa, Poland","Mokotowska 6A, Warszawa, Poland","52.2185165711412,21.0168704264137",6.4,15,18,6,21,6.1,27
+"109","Przemysława Gintrowskiego 38, Warszawa, Poland","plac Konstytucji 2, Warszawa, Poland","52.2217667493142,21.0175865026313",10.3,18,19,6.6,23,6.7,31
+"110","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Róż 6, Warszawa, Poland","52.2221392665386,21.0226570082395",9.7,15,17,6.8,23,9.5,35
+"111","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Wyzwolenia 7-9, 00-572 Warszawa, Poland","52.2197989002536,21.021088123872",9.6,15,17,6.5,22,6.6,30
+"112","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Niepodległości 206, Warszawa, Poland","52.2156040204159,21.0087182001132",7.7,16,16,6.3,20,6.3,29
+"113","Przemysława Gintrowskiego 38, Warszawa, Poland","Waryńskiego 3, 00-645 Warszawa, Poland","52.2137513123704,21.0131812775788",6.4,13,15,6,19,5.7,27
+"114","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Niepodległości 188, Warszawa, Poland","52.2119979428485,21.0079201891205",6.3,12,13,4.6,18,5.3,26
+"115","Przemysława Gintrowskiego 38, Warszawa, Poland","Polna 7, 00-622 Warszawa, Poland","52.2153324251836,21.0183923542333",9.2,15,17,5.7,21,6.2,28
+"116","Przemysława Gintrowskiego 38, Warszawa, Poland","Litewska 8, Warszawa, Poland","52.2169318112919,21.022076743313",9.8,16,17,6.4,22,6.5,29
+"117","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Jana Chrystiana Szucha 12A, Warszawa, Poland","52.215574066258,21.0245491555085",9,14,16,6.6,23,6.7,32
+"118","Przemysława Gintrowskiego 38, Warszawa, Poland","Klonowa 1, 05-077 Warszawa, Poland","52.2125492317357,21.0247543480829",8.7,13,14,5.9,22,5.9,30
+"119","Przemysława Gintrowskiego 38, Warszawa, Poland","Parkowa 23, 00-759 Warszawa, Poland","52.2146902864589,21.032581801177",8.5,14,15,6.7,27,8.8,35
+"120","Przemysława Gintrowskiego 38, Warszawa, Poland","Łazienkowska 6-8, 00-449 Warszawa, Poland","52.221152489593,21.0404788698309",9.5,13,15,7.9,30,9.9,42
+"121","Przemysława Gintrowskiego 38, Warszawa, Poland","Kawalerii 3, 00-468 Warszawa, Poland","52.2178624388361,21.0411489842576",9.2,13,15,7.6,29,9.6,44
+"122","Przemysława Gintrowskiego 38, Warszawa, Poland","Zaruskiego 6, Warszawa, Poland","52.2217159851004,21.0508950144025",10.8,18,20,10.9,36,8.6,38
+"123","Przemysława Gintrowskiego 38, Warszawa, Poland","29 Listopada 3D, Warszawa, Poland","52.2130159882769,21.0426889557836",8.6,13,15,8.8,30,9,40
+"124","Przemysława Gintrowskiego 38, Warszawa, Poland","Bednarska 14, Warszawa, Poland","52.2441779178405,21.0162563361202",13.1,20,22,9.3,33,10.6,45
+"125","Przemysława Gintrowskiego 38, Warszawa, Poland","Juliana Bartoszewicza 9, Warszawa, Poland","52.2379132121378,21.020865482541",12.4,21,24,8.8,31,9.6,42
+"126","Przemysława Gintrowskiego 38, Warszawa, Poland","wiadukt Stanisława Markiewicza, Warszawa, Poland","52.2408750988112,21.0191407971111",12.9,18,21,8.7,31,10,42
+"127","Przemysława Gintrowskiego 38, Warszawa, Poland","Belwederska 25, 00-594 Warszawa, Poland","52.2092125537082,21.0290249142591",8.1,12,13,5.7,22,7.8,31
+"128","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Stanisława Lorentza, Warszawa, Poland","52.2312761564496,21.0243289244704",12.7,18,20,8,31,9.4,38
+"129","Przemysława Gintrowskiego 38, Warszawa, Poland","Frascati 6, Warszawa, Poland","52.226937145848,21.0266409233766",11,18,20,7.6,27,10.2,38
+"130","Przemysława Gintrowskiego 38, Warszawa, Poland","Jazdów 7, Warszawa, Poland","52.2221105587262,21.0284697646852",10.8,16,19,6.7,25,9.6,36
+"131","Przemysława Gintrowskiego 38, Warszawa, Poland","Okrąg 12A, 00-407 Warszawa, Poland","52.2314014033001,21.0364147518947",11,15,18,8.4,31,11.1,38
+"132","Przemysława Gintrowskiego 38, Warszawa, Poland","Książęca 3, 00-498 Warszawa, Poland","52.229401385886,21.0298823689522",11,16,19,7.9,29,10.5,37
+"133","Przemysława Gintrowskiego 38, Warszawa, Poland","Cecylii Śniegockiej 2-4, 00-430 Warszawa, Poland","52.2269087032713,21.0373407818502",10.3,15,18,8.2,31,8,35
+"134","Przemysława Gintrowskiego 38, Warszawa, Poland","Koźmińska 3-5, 00-452 Warszawa, Poland","52.2240021615366,21.0373218903931",10.4,16,18,8.1,31,7.6,30
+"135","Przemysława Gintrowskiego 38, Warszawa, Poland","Pańska 7, 00-827 Warszawa, Poland","52.2328894222334,21.0007159014125",8.7,19,22,7.9,29,8.9,33
+"136","Przemysława Gintrowskiego 38, Warszawa, Poland","Sienna 24-34, 00-121 Warszawa, Poland","52.231606387805,21.0015697151233",8.4,17,20,7.9,29,8.3,32
+"137","Przemysława Gintrowskiego 38, Warszawa, Poland","Złota 44/46, Warszawa, Poland","52.2300725965548,21.0025076039798",8.5,18,20,7.4,28,7.9,26
+"138","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleje Jerozolimskie 54, 00-024 Warszawa, Poland","52.2287051445684,21.0033835996268",8.5,17,19,7.5,28,7.8,26
+"139","Przemysława Gintrowskiego 38, Warszawa, Poland","Dream in Warsaw, Świętokrzyska 30, 00-950 Warszawa, Poland","52.2336282725521,21.0046923758417",9.8,20,22,8.1,28,11.9,31
+"140","Przemysława Gintrowskiego 38, Warszawa, Poland","plac Defilad 1, Warszawa, Poland","52.2317107100909,21.0057974137903",8.8,19,22,8.1,28,12.1,33
+"141","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleje Jerozolimskie 50, Warszawa, Poland","52.2297005291084,21.0072268876471",8.6,17,19,7.8,28,8,28
+"142","Przemysława Gintrowskiego 38, Warszawa, Poland","plac Defilad 1, Warszawa, Poland","52.2322757077095,21.0090074367857",9.2,20,22,7.6,27,11.3,30
+"143","Przemysława Gintrowskiego 38, Warszawa, Poland","Żurawia 24, Warszawa, Poland","52.2284788835627,21.0151818842552",10.9,19,20,7.4,26,10,40
+"144","Przemysława Gintrowskiego 38, Warszawa, Poland","Żurawia 4, Warszawa, Poland","52.2293863731025,21.0197759857614",10.6,17,19,7.4,26,9.2,38
+"145","Przemysława Gintrowskiego 38, Warszawa, Poland","Jasna 10-12, 05-075 Warszawa, Poland","52.2343719985379,21.011552778872",9.7,20,22,8.1,28,11.9,32
+"146","Przemysława Gintrowskiego 38, Warszawa, Poland","Chmielna 25-27, 00-801 Warszawa, Poland","52.2316418414244,21.0132895057805",9.6,21,23,7.9,27,11.5,32
+"147","Przemysława Gintrowskiego 38, Warszawa, Poland","Wybrzeże Gdyńskie 2, 00-401 Warszawa, Poland","52.2641297107996,21.000924224075",15,19,22,12.4,43,15.4,46
+"148","Przemysława Gintrowskiego 38, Warszawa, Poland","Krajewskiego 3/5, Warszawa, Poland","52.2613984615835,20.9966183050288",15.3,21,24,12,42,11.5,40
+"149","Przemysława Gintrowskiego 38, Warszawa, Poland","Jerzego Szaniawskiego 17, Warszawa, Poland","52.2679455915988,20.9927873301452",16.5,22,25,12.1,43,16.5,45
+"150","Przemysława Gintrowskiego 38, Warszawa, Poland","Brodzińskiego 26, Warszawa, Poland","52.2651313927266,20.9812407323605",17.6,24,26,12.1,44,16.5,44
+"151","rondo ONZ 27, 00-828 Warszawa, Poland","Wilcza 26-28, 00-538 Warszawa, Poland","52.2249914639133,21.0170977713496",2.4,7,7,2.3,8,2.2,18
+"152","rondo ONZ 27, 00-828 Warszawa, Poland","Mokotowska 59-61, 00-640 Warszawa, Poland","52.2256790528183,21.0214645530146",2.6,7,8,2.8,10,2.9,17
+"153","rondo ONZ 27, 00-828 Warszawa, Poland","Witolda Wierzbickiego 722, 00-664 Warszawa, Poland","52.2213008915674,21.007628547007",1.7,4,5,2.6,12,1.9,12
+"154","rondo ONZ 27, 00-828 Warszawa, Poland","Filtrowa 3, Warszawa, Poland","52.2186194629453,21.0069695911861",1.9,4,5,2.4,10,2.1,11
+"155","rondo ONZ 27, 00-828 Warszawa, Poland","Nowowiejska 15/19, Warszawa, Poland","52.2184690769957,21.011637215802",2.3,6,7,2.8,12,2.5,14
+"156","rondo ONZ 27, 00-828 Warszawa, Poland","Lwowska 12, 00-660 Warszawa, Poland","52.2217912657512,21.0125331528905",1.9,5,5,2.6,10,2.5,14
+"157","rondo ONZ 27, 00-828 Warszawa, Poland","Nowowiejska 5-7, 02-010 Warszawa, Poland","52.2198982614425,21.0143207606359",2.3,6,6,2.7,12,2.7,12
+"158","rondo ONZ 27, 00-828 Warszawa, Poland","Mokotowska 6A, Warszawa, Poland","52.2185165711412,21.0168704264137",2.8,6,8,2.9,11,2.9,15
+"159","rondo ONZ 27, 00-828 Warszawa, Poland","plac Konstytucji 2, Warszawa, Poland","52.2217667493142,21.0175865026313",2.3,7,8,2.5,9,2.9,15
+"160","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Róż 6, Warszawa, Poland","52.2221392665386,21.0226570082395",2.8,8,9,3,11,3.3,21
+"161","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Wyzwolenia 7-9, 00-572 Warszawa, Poland","52.2197989002536,21.021088123872",2.7,8,9,2.9,11,3,15
+"162","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Niepodległości 206, Warszawa, Poland","52.2156040204159,21.0087182001132",2.3,5,6,3.6,14,2.3,14
+"163","rondo ONZ 27, 00-828 Warszawa, Poland","Waryńskiego 3, 00-645 Warszawa, Poland","52.2137513123704,21.0131812775788",3.6,8,9,3.6,14,2.9,19
+"164","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Niepodległości 188, Warszawa, Poland","52.2119979428485,21.0079201891205",2.6,4,6,3.2,15,2.9,14
+"165","rondo ONZ 27, 00-828 Warszawa, Poland","Polna 7, 00-622 Warszawa, Poland","52.2153324251836,21.0183923542333",3.7,9,10,3.4,13,3.6,18
+"166","rondo ONZ 27, 00-828 Warszawa, Poland","Litewska 8, Warszawa, Poland","52.2169318112919,21.022076743313",3,8,10,3.3,12,3.2,18
+"167","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Jana Chrystiana Szucha 12A, Warszawa, Poland","52.215574066258,21.0245491555085",3.3,10,11,4.3,17,4.4,25
+"168","rondo ONZ 27, 00-828 Warszawa, Poland","Klonowa 1, 05-077 Warszawa, Poland","52.2125492317357,21.0247543480829",3.9,8,10,4.4,17,4.4,24
+"169","rondo ONZ 27, 00-828 Warszawa, Poland","Parkowa 23, 00-759 Warszawa, Poland","52.2146902864589,21.032581801177",5.1,11,13,4.6,20,4.6,27
+"170","rondo ONZ 27, 00-828 Warszawa, Poland","Łazienkowska 6-8, 00-449 Warszawa, Poland","52.221152489593,21.0404788698309",5.5,8,10,4.4,18,4,19
+"171","rondo ONZ 27, 00-828 Warszawa, Poland","Kawalerii 3, 00-468 Warszawa, Poland","52.2178624388361,21.0411489842576",6.4,10,11,5.3,21,4.5,25
+"172","rondo ONZ 27, 00-828 Warszawa, Poland","Zaruskiego 6, Warszawa, Poland","52.2217159851004,21.0508950144025",6.7,12,13,4.9,20,5.1,30
+"173","rondo ONZ 27, 00-828 Warszawa, Poland","29 Listopada 3D, Warszawa, Poland","52.2130159882769,21.0426889557836",7,12,13,5.7,22,5.1,32
+"174","rondo ONZ 27, 00-828 Warszawa, Poland","Bednarska 14, Warszawa, Poland","52.2441779178405,21.0162563361202",3,12,11,2.6,11,2.9,14
+"175","rondo ONZ 27, 00-828 Warszawa, Poland","Juliana Bartoszewicza 9, Warszawa, Poland","52.2379132121378,21.020865482541",1.7,7,7,1.7,7,1.8,8
+"176","rondo ONZ 27, 00-828 Warszawa, Poland","wiadukt Stanisława Markiewicza, Warszawa, Poland","52.2408750988112,21.0191407971111",2.7,10,10,2,8,2.2,11
+"177","rondo ONZ 27, 00-828 Warszawa, Poland","Belwederska 25, 00-594 Warszawa, Poland","52.2092125537082,21.0290249142591",4.7,9,11,4.7,19,5.1,19
+"178","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Stanisława Lorentza, Warszawa, Poland","52.2312761564496,21.0243289244704",5.3,11,12,2.5,13,2.5,16
+"179","rondo ONZ 27, 00-828 Warszawa, Poland","Frascati 6, Warszawa, Poland","52.226937145848,21.0266409233766",3.7,11,12,2.9,12,3.2,19
+"180","rondo ONZ 27, 00-828 Warszawa, Poland","Jazdów 7, Warszawa, Poland","52.2221105587262,21.0284697646852",3.2,9,10,3.5,14,4,24
+"181","rondo ONZ 27, 00-828 Warszawa, Poland","Okrąg 12A, 00-407 Warszawa, Poland","52.2314014033001,21.0364147518947",3.4,10,11,3.4,15,3.2,19
+"182","rondo ONZ 27, 00-828 Warszawa, Poland","Książęca 3, 00-498 Warszawa, Poland","52.229401385886,21.0298823689522",2.9,8,9,3.2,14,2.8,14
+"183","rondo ONZ 27, 00-828 Warszawa, Poland","Cecylii Śniegockiej 2-4, 00-430 Warszawa, Poland","52.2269087032713,21.0373407818502",5.3,9,10,3.9,16,3.6,19
+"184","rondo ONZ 27, 00-828 Warszawa, Poland","Koźmińska 3-5, 00-452 Warszawa, Poland","52.2240021615366,21.0373218903931",5.4,9,10,4.1,17,3.7,19
+"185","rondo ONZ 27, 00-828 Warszawa, Poland","Pańska 7, 00-827 Warszawa, Poland","52.2328894222334,21.0007159014125",0.7,4,4,0.8,3,0.3,4
+"186","rondo ONZ 27, 00-828 Warszawa, Poland","Sienna 24-34, 00-121 Warszawa, Poland","52.231606387805,21.0015697151233",0.4,3,3,0.8,3,0.4,5
+"187","rondo ONZ 27, 00-828 Warszawa, Poland","Złota 44/46, Warszawa, Poland","52.2300725965548,21.0025076039798",0.6,3,3,1,4,1.1,7
+"188","rondo ONZ 27, 00-828 Warszawa, Poland","Aleje Jerozolimskie 54, 00-024 Warszawa, Poland","52.2287051445684,21.0033835996268",1,4,4,1.1,4,1.3,10
+"189","rondo ONZ 27, 00-828 Warszawa, Poland","Dream in Warsaw, Świętokrzyska 30, 00-950 Warszawa, Poland","52.2336282725521,21.0046923758417",1.8,6,6,0.6,3,0.9,7
+"190","rondo ONZ 27, 00-828 Warszawa, Poland","plac Defilad 1, Warszawa, Poland","52.2317107100909,21.0057974137903",0.8,4,4,0.8,3,0.9,7
+"191","rondo ONZ 27, 00-828 Warszawa, Poland","Aleje Jerozolimskie 50, Warszawa, Poland","52.2297005291084,21.0072268876471",1.1,3,4,1.2,5,1.1,9
+"192","rondo ONZ 27, 00-828 Warszawa, Poland","plac Defilad 1, Warszawa, Poland","52.2322757077095,21.0090074367857",1,7,7,1.1,4,1.3,8
+"193","rondo ONZ 27, 00-828 Warszawa, Poland","Żurawia 24, Warszawa, Poland","52.2284788835627,21.0151818842552",2.2,8,8,2.2,8,1.8,16
+"194","rondo ONZ 27, 00-828 Warszawa, Poland","Żurawia 4, Warszawa, Poland","52.2293863731025,21.0197759857614",2.6,9,9,2.3,9,2.4,15
+"195","rondo ONZ 27, 00-828 Warszawa, Poland","Jasna 10-12, 05-075 Warszawa, Poland","52.2343719985379,21.011552778872",1.7,8,7,1.7,7,1.2,7
+"196","rondo ONZ 27, 00-828 Warszawa, Poland","Chmielna 25-27, 00-801 Warszawa, Poland","52.2316418414244,21.0132895057805",2.1,7,8,1.7,7,1.8,13
+"197","rondo ONZ 27, 00-828 Warszawa, Poland","Wybrzeże Gdyńskie 2, 00-401 Warszawa, Poland","52.2641297107996,21.000924224075",5.4,14,12,5,19,4.7,27
+"198","rondo ONZ 27, 00-828 Warszawa, Poland","Krajewskiego 3/5, Warszawa, Poland","52.2613984615835,20.9966183050288",4.7,12,13,4.6,18,4.2,22
+"199","rondo ONZ 27, 00-828 Warszawa, Poland","Jerzego Szaniawskiego 17, Warszawa, Poland","52.2679455915988,20.9927873301452",4.9,13,14,4.8,19,5.8,27
+"200","rondo ONZ 27, 00-828 Warszawa, Poland","Brodzińskiego 26, Warszawa, Poland","52.2651313927266,20.9812407323605",4.5,12,12,4.3,18,4.3,21
+"201","Przemysława Gintrowskiego 38, Warszawa, Poland","Ludwika Mierosławskiego 29-31, 01-527 Warszawa, Poland","52.265800442666,20.98643831166",17,23,26,11.9,43,12.9,40
+"202","Przemysława Gintrowskiego 38, Warszawa, Poland","Zajączka 21, Warszawa, Poland","52.2613129866628,20.9846233056697",12.3,24,27,11.8,42,15.3,45
+"203","Przemysława Gintrowskiego 38, Warszawa, Poland","Zajączka 9, Warszawa, Poland","52.261446842653,20.9909450946322",15.7,22,25,11.3,41,11.6,39
+"204","Przemysława Gintrowskiego 38, Warszawa, Poland","Wybrzeże Gdyńskie 2B, Warszawa, Poland","52.2792644370639,20.9921303705212",16.8,20,24,13.9,50,14.9,56
+"205","Przemysława Gintrowskiego 38, Warszawa, Poland","Gwiaździsta 5D, Warszawa, Poland","52.2756993788418,20.988659773679",17.1,25,27,13.9,51,15.2,55
+"206","Przemysława Gintrowskiego 38, Warszawa, Poland","Sułkowskiego 12, 01-610 Warszawa, Poland","52.2715011108965,20.9891386602469",16.9,22,26,12.7,46,13,42
+"207","Przemysława Gintrowskiego 38, Warszawa, Poland","Mysłowicka 8-10, 01-612 Warszawa, Poland","52.2741498946252,20.9842989644009",17.3,26,28,13,47,16.6,46
+"208","Przemysława Gintrowskiego 38, Warszawa, Poland","Krasińskiego 1, Warszawa, Poland","52.2718673734176,20.9989385403216",16.3,21,24,13.2,48,14.9,52
+"209","Przemysława Gintrowskiego 38, Warszawa, Poland","Mickiewicza 33C, Warszawa, Poland","52.2705668269703,20.983357833975",17,23,27,13,46,12.7,39
+"210","Przemysława Gintrowskiego 38, Warszawa, Poland","Filarecka 3, Warszawa, Poland","52.2687727894864,20.9825368835051",17.6,23,25,12.4,44,12.7,38
+"211","Przemysława Gintrowskiego 38, Warszawa, Poland","Harcerska, Warszawa, Poland","52.2690470403966,20.977666445636",17.3,24,28,12.3,46,17.3,44
+"212","Przemysława Gintrowskiego 38, Warszawa, Poland","Szczepanowskiego, 01-635 Warszawa, Poland","52.2722737676113,20.979336078971",13.3,26,30,12.9,46,16.5,44
+"213","Przemysława Gintrowskiego 38, Warszawa, Poland","Kłodawska 56, 01-715 Warszawa, Poland","52.270974273826,20.9695750975392",16.8,22,24,12.7,45,13.6,39
+"214","Przemysława Gintrowskiego 38, Warszawa, Poland","Ppłk Macieja Kalenkiewicza ""Kotwicza"" 26, 01-711 Warszawa, Poland","52.2684059763798,20.9650956370528",16.4,21,23,13.1,46,17.4,46
+"215","Przemysława Gintrowskiego 38, Warszawa, Poland","Sady Żoliborskie 7-9, 01-770 Warszawa, Poland","52.2671862230919,20.9726432404881",16.8,22,24,12.2,44,16.7,47
+"216","Przemysława Gintrowskiego 38, Warszawa, Poland","Księdza Jerzego Popiełuszki 3A, Warszawa, Poland","52.2643940436841,20.9761593715263",17.2,22,24,11.8,42,16.7,47
+"217","Przemysława Gintrowskiego 38, Warszawa, Poland","Broniewskiego 21, Warszawa, Poland","52.2648563813886,20.963956171364",16.3,21,23,12.9,46,15.8,54
+"218","Przemysława Gintrowskiego 38, Warszawa, Poland","Elbląska 45, Warszawa, Poland","52.2621364297959,20.9603082597418",16.3,22,24,11.5,39,13.4,54
+"219","Przemysława Gintrowskiego 38, Warszawa, Poland","Edwarda Jelinka 21, 01-646 Warszawa, Poland","52.2749916507092,20.9746370592928",18.2,26,29,13.5,48,17.4,46
+"220","Przemysława Gintrowskiego 38, Warszawa, Poland","Mickiewicza 68, Warszawa, Poland","52.2780691453932,20.9808346845334",18.2,27,30,13.4,48,15,51
+"221","Przemysława Gintrowskiego 38, Warszawa, Poland","Gwiaździsta 13, Warszawa, Poland","52.2799300599158,20.984524702686",17.4,25,28,13.7,49,14.3,48
+"222","Przemysława Gintrowskiego 38, Warszawa, Poland","Przasnyska 6C, 01-756 Warszawa, Poland","52.2607248570364,20.9709523039075",16.5,22,24,12.8,45,14.9,51
+"223","Przemysława Gintrowskiego 38, Warszawa, Poland","Ludwika Rydygiera 13B, 01-793 Warszawa, Poland","52.2592091433423,20.9761979900007",17.3,23,25,11.9,43,12.7,58
+"224","Przemysława Gintrowskiego 38, Warszawa, Poland","Anny German 5, 01-066 Warszawa, Poland","52.2620692459772,20.974805037099",17,23,25,11.9,43,12.7,57
+"225","Przemysława Gintrowskiego 38, Warszawa, Poland","Krasińskiego 59A, 01-755 Warszawa, Poland","52.2591024607162,20.9663719651214",16.1,22,24,11.5,39,15.7,54
+"226","Przemysława Gintrowskiego 38, Warszawa, Poland","Duchnicka 3, 01-796 Warszawa, Poland","52.2569388446249,20.9699164314158",16.6,22,24,10.6,38,12.5,51
+"227","Przemysława Gintrowskiego 38, Warszawa, Poland","Szamocka 5, 01-748 Warszawa, Poland","52.2575757533429,20.9585764367241",16.8,23,25,11.2,38,13.2,55
+"228","Przemysława Gintrowskiego 38, Warszawa, Poland","Jędrusik 6, 01-748 Warszawa, Poland","52.2564103623367,20.9649302176042",16.4,21,23,10.8,37,15.8,54
+"229","Przemysława Gintrowskiego 38, Warszawa, Poland","aleja Obrońców Grodna, Warszawa, Poland","52.2584735594165,20.953285545011",15.4,19,20,11.8,40,13.8,56
+"230","Przemysława Gintrowskiego 38, Warszawa, Poland","Okopowa 78, Warszawa, Poland","52.2518925462479,20.9825560352647",10.6,21,23,10.4,36,10.6,45
+"231","Przemysława Gintrowskiego 38, Warszawa, Poland","Esperanto 20, Warszawa, Poland","52.24714577838,20.9808569261335",10.9,22,24,10.2,36,9.7,46
+"232","Przemysława Gintrowskiego 38, Warszawa, Poland","Miła 27, 05-075 Warszawa, Poland","52.2486888514496,20.9853970320364",10.8,21,24,10,35,10.5,43
+"233","Przemysława Gintrowskiego 38, Warszawa, Poland","Dzielna 17, Warszawa, Poland","52.2429282814297,20.9826150552642",10,22,24,9.9,34,10.5,47
+"234","Przemysława Gintrowskiego 38, Warszawa, Poland","skwer Kardynała Stefana Wyszyńskiego 2-4, 01-015 Warszawa, Poland","52.2392988440277,20.9827724335828",9.5,20,22,8.7,31,9.2,45
+"235","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowolipki 21A, Warszawa, Poland","52.2435521058411,20.9890795499336",10.1,20,23,9.4,33,8.7,44
+"236","Przemysława Gintrowskiego 38, Warszawa, Poland","Syreny 11, Warszawa, Poland","52.2350075579666,20.9614681162509",12,19,21,9.5,33,9.8,39
+"237","Przemysława Gintrowskiego 38, Warszawa, Poland","Wawelberga 8, 01-184 Warszawa, Poland","52.2355098647828,20.9686637495144",9.9,21,23,8.7,30,9.7,37
+"238","Przemysława Gintrowskiego 38, Warszawa, Poland","Karolkowa 64, Warszawa, Poland","52.2385688222398,20.9753603881268",9.1,18,20,8.2,29,10.6,45
+"239","Przemysława Gintrowskiego 38, Warszawa, Poland","Karolkowa 55, Warszawa, Poland","52.2367677345339,20.9758670021909",9.3,19,21,8.1,28,10.2,43
+"240","Przemysława Gintrowskiego 38, Warszawa, Poland","Gniewkowska, 01-253 Warszawa, Poland","52.2168474891185,20.9385144757946",12,21,22,9.1,33,9.8,42
+"241","Przemysława Gintrowskiego 38, Warszawa, Poland","Tunelowa 2b, 01-222 Warszawa, Poland","52.221679763831,20.9682688476719",9,16,19,7.9,27,9.3,29
+"242","Przemysława Gintrowskiego 38, Warszawa, Poland","U19, Kolejowa 8/10A, 01-210 Warszawa, Poland","52.224990588366,20.9831695116195",7.8,15,17,6.7,23,11.6,38
+"243","Przemysława Gintrowskiego 38, Warszawa, Poland","Chłodna 42-48, 00-891 Warszawa, Poland","52.2362260364237,20.9852389491913",8.9,18,19,7.6,26,8.6,39
+"244","Przemysława Gintrowskiego 38, Warszawa, Poland","Łucka 18-22, 00-842 Warszawa, Poland","52.2325551895931,20.9874394909275",8.9,17,20,7.7,27,7.9,37
+"245","Przemysława Gintrowskiego 38, Warszawa, Poland","Ogrodowa 9, 05-075 Warszawa, Poland","52.2395694606169,20.9913278355555",9.6,19,21,8.3,28,9.7,44
+"246","Przemysława Gintrowskiego 38, Warszawa, Poland","Krochmalna 32A, Warszawa, Poland","52.2369029420406,20.9933352971127",8.7,19,21,8.5,29,9.8,46
+"247","Przemysława Gintrowskiego 38, Warszawa, Poland","Pereca 9, Warszawa, Poland","52.233934411758,20.994706130561",8.9,17,20,7.8,27,9,44
+"248","Przemysława Gintrowskiego 38, Warszawa, Poland","Miedziana 9, 00-809 Warszawa, Poland","52.229479635447,20.9896708721094",8.6,18,19,6.9,24,11.6,38
+"249","Przemysława Gintrowskiego 38, Warszawa, Poland","Miedziana 1, Warszawa, Poland","52.226832262288,20.9918228534976",8.4,17,19,6.5,23,7,26
+"250","Przemysława Gintrowskiego 38, Warszawa, Poland","Śliska 60, Warszawa, Poland","52.2311281340908,20.9962654068367",8.4,17,19,7.3,25,8.5,36
+"251","rondo ONZ 27, 00-828 Warszawa, Poland","Ludwika Mierosławskiego 29-31, 01-527 Warszawa, Poland","52.265800442666,20.98643831166",4.7,12,13,4.5,18,4.6,25
+"252","rondo ONZ 27, 00-828 Warszawa, Poland","Zajączka 21, Warszawa, Poland","52.2613129866628,20.9846233056697",4.2,11,12,4.4,18,4.4,22
+"253","rondo ONZ 27, 00-828 Warszawa, Poland","Zajączka 9, Warszawa, Poland","52.261446842653,20.9909450946322",4.6,11,12,3.9,17,4.3,22
+"254","rondo ONZ 27, 00-828 Warszawa, Poland","Wybrzeże Gdyńskie 2B, Warszawa, Poland","52.2792644370639,20.9921303705212",7.4,14,14,6.5,26,9.1,34
+"255","rondo ONZ 27, 00-828 Warszawa, Poland","Gwiaździsta 5D, Warszawa, Poland","52.2756993788418,20.988659773679",6.5,16,18,6.5,26,6.4,34
+"256","rondo ONZ 27, 00-828 Warszawa, Poland","Sułkowskiego 12, 01-610 Warszawa, Poland","52.2715011108965,20.9891386602469",5.3,13,14,5.3,21,5.6,24
+"257","rondo ONZ 27, 00-828 Warszawa, Poland","Mysłowicka 8-10, 01-612 Warszawa, Poland","52.2741498946252,20.9842989644009",5.8,15,17,5.5,22,6.2,31
+"258","rondo ONZ 27, 00-828 Warszawa, Poland","Krasińskiego 1, Warszawa, Poland","52.2718673734176,20.9989385403216",5.8,14,15,5.8,23,6.2,31
+"259","rondo ONZ 27, 00-828 Warszawa, Poland","Mickiewicza 33C, Warszawa, Poland","52.2705668269703,20.983357833975",5,12,14,5.2,20,5.4,21
+"260","rondo ONZ 27, 00-828 Warszawa, Poland","Filarecka 3, Warszawa, Poland","52.2687727894864,20.9825368835051",4.6,11,12,4.6,19,5.2,21
+"261","rondo ONZ 27, 00-828 Warszawa, Poland","Harcerska, Warszawa, Poland","52.2690470403966,20.977666445636",5.1,13,14,4.5,20,4.7,21
+"262","rondo ONZ 27, 00-828 Warszawa, Poland","Szczepanowskiego, 01-635 Warszawa, Poland","52.2722737676113,20.979336078971",5.2,13,14,5.5,21,5.5,25
+"263","rondo ONZ 27, 00-828 Warszawa, Poland","Kłodawska 56, 01-715 Warszawa, Poland","52.270974273826,20.9695750975392",4.9,11,12,4.9,19,5.4,24
+"264","rondo ONZ 27, 00-828 Warszawa, Poland","Ppłk Macieja Kalenkiewicza ""Kotwicza"" 26, 01-711 Warszawa, Poland","52.2684059763798,20.9650956370528",4.9,13,14,5.3,20,5.4,22
+"265","rondo ONZ 27, 00-828 Warszawa, Poland","Sady Żoliborskie 7-9, 01-770 Warszawa, Poland","52.2671862230919,20.9726432404881",4.4,11,12,4.4,18,4.7,21
+"266","rondo ONZ 27, 00-828 Warszawa, Poland","Księdza Jerzego Popiełuszki 3A, Warszawa, Poland","52.2643940436841,20.9761593715263",3.9,10,11,4,16,4.1,18
+"267","rondo ONZ 27, 00-828 Warszawa, Poland","Broniewskiego 21, Warszawa, Poland","52.2648563813886,20.963956171364",5.1,13,13,5.1,20,5.4,22
+"268","rondo ONZ 27, 00-828 Warszawa, Poland","Elbląska 45, Warszawa, Poland","52.2621364297959,20.9603082597418",4.8,13,13,4.7,19,5.7,26
+"269","rondo ONZ 27, 00-828 Warszawa, Poland","Edwarda Jelinka 21, 01-646 Warszawa, Poland","52.2749916507092,20.9746370592928",5.6,14,15,6,23,5.5,25
+"270","rondo ONZ 27, 00-828 Warszawa, Poland","Mickiewicza 68, Warszawa, Poland","52.2780691453932,20.9808346845334",5.9,16,18,6,23,6.6,33
+"271","rondo ONZ 27, 00-828 Warszawa, Poland","Gwiaździsta 13, Warszawa, Poland","52.2799300599158,20.984524702686",6.3,16,17,6.3,24,7.4,35
+"272","rondo ONZ 27, 00-828 Warszawa, Poland","Przasnyska 6C, 01-756 Warszawa, Poland","52.2607248570364,20.9709523039075",4.9,12,13,5,19,5.1,26
+"273","rondo ONZ 27, 00-828 Warszawa, Poland","Ludwika Rydygiera 13B, 01-793 Warszawa, Poland","52.2592091433423,20.9761979900007",4.1,11,12,4.2,17,4.4,22
+"274","rondo ONZ 27, 00-828 Warszawa, Poland","Anny German 5, 01-066 Warszawa, Poland","52.2620692459772,20.974805037099",4.1,12,13,4.1,17,4.4,21
+"275","rondo ONZ 27, 00-828 Warszawa, Poland","Krasińskiego 59A, 01-755 Warszawa, Poland","52.2591024607162,20.9663719651214",4.9,13,14,5.1,20,5.1,26
+"276","rondo ONZ 27, 00-828 Warszawa, Poland","Duchnicka 3, 01-796 Warszawa, Poland","52.2569388446249,20.9699164314158",3.7,11,11,4.8,18,5,28
+"277","rondo ONZ 27, 00-828 Warszawa, Poland","Szamocka 5, 01-748 Warszawa, Poland","52.2575757533429,20.9585764367241",4.3,12,13,4.4,18,5.9,34
+"278","rondo ONZ 27, 00-828 Warszawa, Poland","Jędrusik 6, 01-748 Warszawa, Poland","52.2564103623367,20.9649302176042",3.9,10,11,3.9,17,5,28
+"279","rondo ONZ 27, 00-828 Warszawa, Poland","aleja Obrońców Grodna, Warszawa, Poland","52.2584735594165,20.953285545011",5.1,11,12,5,20,6.2,34
+"280","rondo ONZ 27, 00-828 Warszawa, Poland","Okopowa 78, Warszawa, Poland","52.2518925462479,20.9825560352647",2.6,9,8,2.6,10,3.2,16
+"281","rondo ONZ 27, 00-828 Warszawa, Poland","Esperanto 20, Warszawa, Poland","52.24714577838,20.9808569261335",2.5,8,9,2.4,10,2.7,17
+"282","rondo ONZ 27, 00-828 Warszawa, Poland","Miła 27, 05-075 Warszawa, Poland","52.2486888514496,20.9853970320364",2.1,7,7,2.2,9,2.4,14
+"283","rondo ONZ 27, 00-828 Warszawa, Poland","Dzielna 17, Warszawa, Poland","52.2429282814297,20.9826150552642",2.1,8,8,2.1,8,2.3,17
+"284","rondo ONZ 27, 00-828 Warszawa, Poland","skwer Kardynała Stefana Wyszyńskiego 2-4, 01-015 Warszawa, Poland","52.2392988440277,20.9827724335828",2,7,6,2,8,2.1,11
+"285","rondo ONZ 27, 00-828 Warszawa, Poland","Nowolipki 21A, Warszawa, Poland","52.2435521058411,20.9890795499336",1.6,6,6,1.6,7,1.8,11
+"286","rondo ONZ 27, 00-828 Warszawa, Poland","Syreny 11, Warszawa, Poland","52.2350075579666,20.9614681162509",4.1,12,13,3.8,14,4.2,21
+"287","rondo ONZ 27, 00-828 Warszawa, Poland","Wawelberga 8, 01-184 Warszawa, Poland","52.2355098647828,20.9686637495144",3.3,10,11,3,11,3.7,18
+"288","rondo ONZ 27, 00-828 Warszawa, Poland","Karolkowa 64, Warszawa, Poland","52.2385688222398,20.9753603881268",2.5,7,8,2.4,10,2.8,16
+"289","rondo ONZ 27, 00-828 Warszawa, Poland","Karolkowa 55, Warszawa, Poland","52.2367677345339,20.9758670021909",2.7,8,9,2.3,9,2.7,14
+"290","rondo ONZ 27, 00-828 Warszawa, Poland","Gniewkowska, 01-253 Warszawa, Poland","52.2168474891185,20.9385144757946",5.7,17,19,5.6,19,5.9,41
+"291","rondo ONZ 27, 00-828 Warszawa, Poland","Tunelowa 2b, 01-222 Warszawa, Poland","52.221679763831,20.9682688476719",2.9,7,9,3,10,3.4,16
+"292","rondo ONZ 27, 00-828 Warszawa, Poland","U19, Kolejowa 8/10A, 01-210 Warszawa, Poland","52.224990588366,20.9831695116195",2.4,8,9,1.9,8,1.9,13
+"293","rondo ONZ 27, 00-828 Warszawa, Poland","Chłodna 42-48, 00-891 Warszawa, Poland","52.2362260364237,20.9852389491913",1.4,5,5,1.3,5,1.6,12
+"294","rondo ONZ 27, 00-828 Warszawa, Poland","Łucka 18-22, 00-842 Warszawa, Poland","52.2325551895931,20.9874394909275",1,4,5,0.8,3,1.5,9
+"295","rondo ONZ 27, 00-828 Warszawa, Poland","Ogrodowa 9, 05-075 Warszawa, Poland","52.2395694606169,20.9913278355555",1.1,4,4,1.1,4,1.4,9
+"296","rondo ONZ 27, 00-828 Warszawa, Poland","Krochmalna 32A, Warszawa, Poland","52.2369029420406,20.9933352971127",0.7,4,4,0.7,3,0.7,9
+"297","rondo ONZ 27, 00-828 Warszawa, Poland","Pereca 9, Warszawa, Poland","52.233934411758,20.994706130561",0.9,4,4,0.6,3,0.4,4
+"298","rondo ONZ 27, 00-828 Warszawa, Poland","Miedziana 9, 00-809 Warszawa, Poland","52.229479635447,20.9896708721094",1.5,5,6,0.9,4,0.9,11
+"299","rondo ONZ 27, 00-828 Warszawa, Poland","Miedziana 1, Warszawa, Poland","52.226832262288,20.9918228534976",1.3,6,6,1.1,4,1,12
+"300","rondo ONZ 27, 00-828 Warszawa, Poland","Śliska 60, Warszawa, Poland","52.2311281340908,20.9962654068367",0.5,3,3,0.3,2,0.3,4
+"301","Przemysława Gintrowskiego 38, Warszawa, Poland","Chmielna 108-114, 00-801 Warszawa, Poland","52.2284435880115,20.9980631392188",8.1,16,18,7,25,8.2,31
+"302","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja Prymasa Tysiąclecia 102A, Warszawa, Poland","52.2505445213824,20.9578979150514",13.4,18,20,11.1,39,11.7,52
+"303","Przemysława Gintrowskiego 38, Warszawa, Poland","Ostroroga 35, 01-163 Warszawa, Poland","52.2491082223008,20.9647370540374",13.7,18,20,9.8,35,11.2,46
+"304","Przemysława Gintrowskiego 38, Warszawa, Poland","Banderii 19, Warszawa, Poland","52.24496941099,20.9619080403468",14.4,20,22,10.1,35,NA,NA
+"305","Przemysława Gintrowskiego 38, Warszawa, Poland","Kozielska 4A, Warszawa, Poland","52.2540925350435,20.9590920397356",14.7,21,23,10.7,38,12.2,53
+"306","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja Prymasa Tysiąclecia, Warszawa, Poland","52.2458839801901,20.9583308982546",13.2,17,19,10.9,38,NA,NA
+"307","Przemysława Gintrowskiego 38, Warszawa, Poland","Syreny 31, Warszawa, Poland","52.2404164289643,20.9619374203799",10.3,22,24,9.5,34,10.3,39
+"308","Przemysława Gintrowskiego 38, Warszawa, Poland","Leonarda 10, Warszawa, Poland","52.2398487227706,20.968077118715",10.1,21,24,8.8,31,10.3,38
+"309","Przemysława Gintrowskiego 38, Warszawa, Poland","Burakowska 14-16, 01-066 Warszawa, Poland","52.2559531762669,20.9776367851118",11,21,24,10.9,39,10.7,47
+"310","Przemysława Gintrowskiego 38, Warszawa, Poland","Kolska 10-12, 01-045 Warszawa, Poland","52.2502266093552,20.9773751004547",10.5,20,22,9.4,33,10.1,45
+"311","Przemysława Gintrowskiego 38, Warszawa, Poland","Kolska 11, 01-045 Warszawa, Poland","52.2487612315854,20.9718145178473",10.6,21,23,10.5,44,11.8,53
+"312","Przemysława Gintrowskiego 38, Warszawa, Poland","Mireckiego 84, 01-061 Warszawa, Poland","52.241416036313,20.9752759578805",9.4,19,21,8.3,29,9,42
+"313","Przemysława Gintrowskiego 38, Warszawa, Poland","Płocka 15, Warszawa, Poland","52.2319582987525,20.9653762403357",9.8,19,22,8.4,29,9.7,37
+"314","Przemysława Gintrowskiego 38, Warszawa, Poland","Wolska 91, Warszawa, Poland","52.2312677202507,20.960312571454",11.6,17,19,8.9,32,10,41
+"315","Przemysława Gintrowskiego 38, Warszawa, Poland","Kasprzaka 44, 01-211 Warszawa, Poland","52.2295414418426,20.9660358669386",9.2,18,20,8.1,28,9,33
+"316","Przemysława Gintrowskiego 38, Warszawa, Poland","Emanuela Szafarczyka 5, Warszawa, Poland","52.2291686717556,20.9600746831003",11.1,17,19,8.6,30,11.3,45
+"317","Przemysława Gintrowskiego 38, Warszawa, Poland","Młynarska 2, Warszawa, Poland","52.2332166552161,20.972754441163",9.4,18,20,8.3,28,9.8,38
+"318","Przemysława Gintrowskiego 38, Warszawa, Poland","Giełdowa 4, 01-211 Warszawa, Poland","52.230421306188,20.9737855633388",9,19,21,7.7,27,9.3,37
+"319","Przemysława Gintrowskiego 38, Warszawa, Poland","Jaktorowska 3, Warszawa, Poland","52.2346104698767,20.9788458056243",8.6,17,19,7.5,26,8.2,37
+"320","Przemysława Gintrowskiego 38, Warszawa, Poland","Przyokopowa 26, 01-208 Warszawa, Poland","52.2312818260751,20.9807056597567",8.6,17,18,7.2,25,7.9,36
+"321","Przemysława Gintrowskiego 38, Warszawa, Poland","Prądzyńskiego 12/14, Warszawa, Poland","52.2256939186624,20.9637346643163",9.4,17,20,8.5,29,9.4,38
+"322","Przemysława Gintrowskiego 38, Warszawa, Poland","Kasprzaka 17, 01-211 Warszawa, Poland","52.22643777794,20.9729020283197",9,17,20,7.9,27,9.3,37
+"323","Przemysława Gintrowskiego 38, Warszawa, Poland","Prosta 69, Warszawa, Poland","52.2278032374739,20.9821067697522",8.7,17,19,7.5,26,8.1,39
+"324","Przemysława Gintrowskiego 38, Warszawa, Poland","Dobrogniewa 3, Warszawa, Poland","52.2503118133403,20.9471842800242",13.8,18,20,12,42,11.5,51
+"325","Przemysława Gintrowskiego 38, Warszawa, Poland","Marynin, 01-469 Warszawa, Poland","52.2433336172982,20.9322885129489",15.2,22,24,12,43,15.4,58
+"326","Przemysława Gintrowskiego 38, Warszawa, Poland","Andrychowska 1, 01-447 Warszawa, Poland","52.2447849693631,20.9423518805267",13.8,20,21,11.4,41,13.1,54
+"327","Przemysława Gintrowskiego 38, Warszawa, Poland","Astronomów 10, Warszawa, Poland","52.2411292333753,20.9432549621538",13.8,20,21,11.1,41,10.3,46
+"328","Przemysława Gintrowskiego 38, Warszawa, Poland","Górczewska 62/64, Warszawa, Poland","52.2410213551129,20.9531189494905",12.7,20,20,10.1,35,9.7,45
+"329","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja Prymasa Tysiąclecia 74A, 01-424 Warszawa, Poland","52.2402079356798,20.9576262464405",12.4,18,20,10,35,9.5,43
+"330","Przemysława Gintrowskiego 38, Warszawa, Poland","Magistracka 29, Warszawa, Poland","52.2453162977717,20.952778522548",13.4,18,19,10.6,38,10.4,47
+"331","Przemysława Gintrowskiego 38, Warszawa, Poland","Olbrachta 94C, Warszawa, Poland","52.2368999982993,20.9282942664596",14,23,24,12,45,NA,NA
+"332","Przemysława Gintrowskiego 38, Warszawa, Poland","Strąkowa 8, Warszawa, Poland","52.2320688980669,20.9268066740995",11.7,20,23,12,40,12.1,48
+"333","Przemysława Gintrowskiego 38, Warszawa, Poland","Fort Wola 145, 01-258 Warszawa, Poland","52.2279833072791,20.92827135853",11.3,20,22,11.2,39,10.5,45
+"334","Przemysława Gintrowskiego 38, Warszawa, Poland","Fort Wola 2, 03-197 Warszawa, Poland","52.2246219756554,20.929543314177",11.4,22,24,11.1,38,11.2,38
+"335","Przemysława Gintrowskiego 38, Warszawa, Poland","Batalionu AK ""Parasol"" 3A, Warszawa, Poland","52.2372660632723,20.9464756633456",12.6,17,20,10.5,39,9.7,43
+"336","Przemysława Gintrowskiego 38, Warszawa, Poland","Góralska 1, Warszawa, Poland","52.2373848333043,20.937935285454",13.1,20,22,11.5,42,10.8,48
+"337","Przemysława Gintrowskiego 38, Warszawa, Poland","Przanowskiego 22, 01-457 Warszawa, Poland","52.2384751485938,20.9330877762127",13.6,21,23,11.6,43,12.2,48
+"338","Przemysława Gintrowskiego 38, Warszawa, Poland","Kajetana Garbińskiego 2, Warszawa, Poland","52.2347161700233,20.944138172246",13.1,19,21,10.4,40,10.7,44
+"339","Przemysława Gintrowskiego 38, Warszawa, Poland","Pustola 36B, Warszawa, Poland","52.2330876578379,20.9358354988213",12.9,20,22,11.8,42,11.5,48
+"340","Przemysława Gintrowskiego 38, Warszawa, Poland","Nakielska 4, Warszawa, Poland","52.2291389859841,20.9390789190962",12.4,19,21,10.7,41,12.2,45
+"341","Przemysława Gintrowskiego 38, Warszawa, Poland","Wolska 138/140, Warszawa, Poland","52.2300697652849,20.945707983613",12.1,19,21,10.7,45,12.7,46
+"342","Przemysława Gintrowskiego 38, Warszawa, Poland","Górczewska 87, Warszawa, Poland","52.2358941299076,20.952623167183",12.2,16,18,9.7,35,9.7,45
+"343","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja Prymasa Tysiąclecia 32, 02-322 Warszawa, Poland","52.2347839294875,20.9569858176754",12.3,17,19,9.4,36,9.5,43
+"344","Przemysława Gintrowskiego 38, Warszawa, Poland","Wieluńska 12, Warszawa, Poland","52.2319693971952,20.9521101570759",11.5,18,20,9.8,36,13.3,46
+"345","Przemysława Gintrowskiego 38, Warszawa, Poland","Grabowska 1-3, 01-236 Warszawa, Poland","52.2288902262644,20.9532995281897",11.4,17,19,9.3,33,9.4,41
+"346","Przemysława Gintrowskiego 38, Warszawa, Poland","Hubalczyków 64, Warszawa, Poland","52.2216946581706,20.9308471360194",10.9,18,20,10.7,37,11.3,40
+"347","Przemysława Gintrowskiego 38, Warszawa, Poland","Jana Kazimierza 32, Warszawa, Poland","52.2240594888707,20.9437131878034",11.6,18,20,9.7,33,10.4,46
+"348","Przemysława Gintrowskiego 38, Warszawa, Poland","Aleja Prymasa Tysiąclecia 81A/1, Warszawa, Poland","52.2238132089284,20.95672583522",10.4,14,16,7.6,30,7.7,30
+"349","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowogrodzka 75, Warszawa, Poland","52.2247161095871,20.9930839179905",7.7,15,17,6.6,23,6.8,23
+"350","Przemysława Gintrowskiego 38, Warszawa, Poland","Nowogrodzka 59, Warszawa, Poland","52.2250858052825,21.0000380468485",7.4,15,17,6.6,23,7.1,34
+"351","rondo ONZ 27, 00-828 Warszawa, Poland","Chmielna 108-114, 00-801 Warszawa, Poland","52.2284435880115,20.9980631392188",1.2,4,5,1.1,4,0.7,8
+"352","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja Prymasa Tysiąclecia 102A, Warszawa, Poland","52.2505445213824,20.9578979150514",4.8,12,14,5.4,20,4.8,30
+"353","rondo ONZ 27, 00-828 Warszawa, Poland","Ostroroga 35, 01-163 Warszawa, Poland","52.2491082223008,20.9647370540374",4.2,10,12,4,15,4.6,26
+"354","rondo ONZ 27, 00-828 Warszawa, Poland","Banderii 19, Warszawa, Poland","52.24496941099,20.9619080403468",4.2,10,13,4.4,16,3.7,47
+"355","rondo ONZ 27, 00-828 Warszawa, Poland","Kozielska 4A, Warszawa, Poland","52.2540925350435,20.9590920397356",4.4,13,13,4.4,18,5.6,30
+"356","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja Prymasa Tysiąclecia, Warszawa, Poland","52.2458839801901,20.9583308982546",4.6,10,12,5.1,19,NA,NA
+"357","rondo ONZ 27, 00-828 Warszawa, Poland","Syreny 31, Warszawa, Poland","52.2404164289643,20.9619374203799",3.7,11,12,3.8,14,3.8,25
+"358","rondo ONZ 27, 00-828 Warszawa, Poland","Leonarda 10, Warszawa, Poland","52.2398487227706,20.968077118715",3.5,10,12,3.1,12,3.8,25
+"359","rondo ONZ 27, 00-828 Warszawa, Poland","Burakowska 14-16, 01-066 Warszawa, Poland","52.2559531762669,20.9776367851118",3.5,9,9,3.1,13,3.3,17
+"360","rondo ONZ 27, 00-828 Warszawa, Poland","Kolska 10-12, 01-045 Warszawa, Poland","52.2502266093552,20.9773751004547",3.8,9,11,3.5,14,3.5,19
+"361","rondo ONZ 27, 00-828 Warszawa, Poland","Kolska 11, 01-045 Warszawa, Poland","52.2487612315854,20.9718145178473",4,10,11,4,26,4.2,28
+"362","rondo ONZ 27, 00-828 Warszawa, Poland","Mireckiego 84, 01-061 Warszawa, Poland","52.241416036313,20.9752759578805",2.8,8,9,2.5,10,3,19
+"363","rondo ONZ 27, 00-828 Warszawa, Poland","Płocka 15, Warszawa, Poland","52.2319582987525,20.9653762403357",3.2,8,10,2.7,9,3.7,18
+"364","rondo ONZ 27, 00-828 Warszawa, Poland","Wolska 91, Warszawa, Poland","52.2312677202507,20.960312571454",3.5,9,10,3.2,13,4,19
+"365","rondo ONZ 27, 00-828 Warszawa, Poland","Kasprzaka 44, 01-211 Warszawa, Poland","52.2295414418426,20.9660358669386",2.5,7,8,2.4,8,2.5,14
+"366","rondo ONZ 27, 00-828 Warszawa, Poland","Emanuela Szafarczyka 5, Warszawa, Poland","52.2291686717556,20.9600746831003",3.1,8,10,2.9,11,3.2,14
+"367","rondo ONZ 27, 00-828 Warszawa, Poland","Młynarska 2, Warszawa, Poland","52.2332166552161,20.972754441163",2.7,7,8,2.6,9,3.1,16
+"368","rondo ONZ 27, 00-828 Warszawa, Poland","Giełdowa 4, 01-211 Warszawa, Poland","52.230421306188,20.9737855633388",2.4,8,9,1.9,8,2.7,16
+"369","rondo ONZ 27, 00-828 Warszawa, Poland","Jaktorowska 3, Warszawa, Poland","52.2346104698767,20.9788458056243",1.9,6,7,1.7,6,1.9,12
+"370","rondo ONZ 27, 00-828 Warszawa, Poland","Przyokopowa 26, 01-208 Warszawa, Poland","52.2312818260751,20.9807056597567",1.9,6,6,1.5,5,1.4,7
+"371","rondo ONZ 27, 00-828 Warszawa, Poland","Prądzyńskiego 12/14, Warszawa, Poland","52.2256939186624,20.9637346643163",2.9,8,10,2.7,9,3,19
+"372","rondo ONZ 27, 00-828 Warszawa, Poland","Kasprzaka 17, 01-211 Warszawa, Poland","52.22643777794,20.9729020283197",2.4,7,9,2.2,8,2.5,14
+"373","rondo ONZ 27, 00-828 Warszawa, Poland","Prosta 69, Warszawa, Poland","52.2278032374739,20.9821067697522",2,6,7,1.8,6,1.9,13
+"374","rondo ONZ 27, 00-828 Warszawa, Poland","Dobrogniewa 3, Warszawa, Poland","52.2503118133403,20.9471842800242",5.3,13,15,6.3,23,6.9,36
+"375","rondo ONZ 27, 00-828 Warszawa, Poland","Marynin, 01-469 Warszawa, Poland","52.2433336172982,20.9322885129489",6.8,16,18,6.3,24,6.5,30
+"376","rondo ONZ 27, 00-828 Warszawa, Poland","Andrychowska 1, 01-447 Warszawa, Poland","52.2447849693631,20.9423518805267",5.8,14,16,5.7,22,6,28
+"377","rondo ONZ 27, 00-828 Warszawa, Poland","Astronomów 10, Warszawa, Poland","52.2411292333753,20.9432549621538",6.2,14,17,5.3,22,5.4,22
+"378","rondo ONZ 27, 00-828 Warszawa, Poland","Górczewska 62/64, Warszawa, Poland","52.2410213551129,20.9531189494905",5.1,14,15,4.4,16,5.6,29
+"379","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja Prymasa Tysiąclecia 74A, 01-424 Warszawa, Poland","52.2402079356798,20.9576262464405",4.7,12,14,4.2,16,5.1,28
+"380","rondo ONZ 27, 00-828 Warszawa, Poland","Magistracka 29, Warszawa, Poland","52.2453162977717,20.952778522548",4.9,11,14,4.8,19,4.9,29
+"381","rondo ONZ 27, 00-828 Warszawa, Poland","Olbrachta 94C, Warszawa, Poland","52.2368999982993,20.9282942664596",7,17,19,6.3,25,NA,NA
+"382","rondo ONZ 27, 00-828 Warszawa, Poland","Strąkowa 8, Warszawa, Poland","52.2320688980669,20.9268066740995",6.3,14,16,5.8,23,7.3,28
+"383","rondo ONZ 27, 00-828 Warszawa, Poland","Fort Wola 145, 01-258 Warszawa, Poland","52.2279833072791,20.92827135853",5.6,14,16,5.5,19,6.4,29
+"384","rondo ONZ 27, 00-828 Warszawa, Poland","Fort Wola 2, 03-197 Warszawa, Poland","52.2246219756554,20.929543314177",5.6,15,17,5.4,19,5.9,23
+"385","rondo ONZ 27, 00-828 Warszawa, Poland","Batalionu AK ""Parasol"" 3A, Warszawa, Poland","52.2372660632723,20.9464756633456",4.9,13,14,4.8,20,4.9,20
+"386","rondo ONZ 27, 00-828 Warszawa, Poland","Góralska 1, Warszawa, Poland","52.2373848333043,20.937935285454",5.5,12,15,5.7,22,5.9,24
+"387","rondo ONZ 27, 00-828 Warszawa, Poland","Przanowskiego 22, 01-457 Warszawa, Poland","52.2384751485938,20.9330877762127",6.1,14,16,5.9,24,6.1,24
+"388","rondo ONZ 27, 00-828 Warszawa, Poland","Kajetana Garbińskiego 2, Warszawa, Poland","52.2347161700233,20.944138172246",4.8,13,14,4.7,20,4.7,20
+"389","rondo ONZ 27, 00-828 Warszawa, Poland","Pustola 36B, Warszawa, Poland","52.2330876578379,20.9358354988213",5.3,12,15,6,22,6.7,28
+"390","rondo ONZ 27, 00-828 Warszawa, Poland","Nakielska 4, Warszawa, Poland","52.2291389859841,20.9390789190962",4.8,11,13,4.9,22,5.6,27
+"391","rondo ONZ 27, 00-828 Warszawa, Poland","Wolska 138/140, Warszawa, Poland","52.2300697652849,20.945707983613",6.9,14,17,4.9,25,4.6,23
+"392","rondo ONZ 27, 00-828 Warszawa, Poland","Górczewska 87, Warszawa, Poland","52.2358941299076,20.952623167183",4.5,11,13,4,16,5,24
+"393","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja Prymasa Tysiąclecia 32, 02-322 Warszawa, Poland","52.2347839294875,20.9569858176754",4.7,11,13,3.7,16,3.8,22
+"394","rondo ONZ 27, 00-828 Warszawa, Poland","Wieluńska 12, Warszawa, Poland","52.2319693971952,20.9521101570759",3.9,11,13,4.1,16,4.5,21
+"395","rondo ONZ 27, 00-828 Warszawa, Poland","Grabowska 1-3, 01-236 Warszawa, Poland","52.2288902262644,20.9532995281897",3.7,10,12,3.6,14,3.4,16
+"396","rondo ONZ 27, 00-828 Warszawa, Poland","Hubalczyków 64, Warszawa, Poland","52.2216946581706,20.9308471360194",5.2,11,13,5,17,5.9,24
+"397","rondo ONZ 27, 00-828 Warszawa, Poland","Jana Kazimierza 32, Warszawa, Poland","52.2240594888707,20.9437131878034",4.2,10,12,4,14,4.3,21
+"398","rondo ONZ 27, 00-828 Warszawa, Poland","Aleja Prymasa Tysiąclecia 81A/1, Warszawa, Poland","52.2238132089284,20.95672583522",4.1,11,13,3.9,14,4.2,21
+"399","rondo ONZ 27, 00-828 Warszawa, Poland","Nowogrodzka 75, Warszawa, Poland","52.2247161095871,20.9930839179905",2.1,6,7,1.9,7,1.4,14
+"400","rondo ONZ 27, 00-828 Warszawa, Poland","Nowogrodzka 59, Warszawa, Poland","52.2250858052825,21.0000380468485",2.2,6,7,1.7,7,1.4,12
