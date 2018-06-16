@@ -82,6 +82,10 @@ namespace IT4U
                         var avgCar = ret[i][j][e.Key].Where(item => Math.Abs(item[1] - -1) > 0.001).Average(item => item[1]);
                         var avgBus = ret[i][j][e.Key].Any(item => Math.Abs(item[6] - -1) > 0.001) ?
                             ret[i][j][e.Key].Where(item => Math.Abs(item[6] - -1) > 0.001).Average(item => item[6]) : -1;
+
+                        avgCar += 10;
+                        avgBicycle *= 1.2;
+                        
                         // 1 samochód
                         // 2 transport publiczny
                         // 3 rower
